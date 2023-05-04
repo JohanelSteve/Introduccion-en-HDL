@@ -56,6 +56,8 @@ Para ir completando funcionalmente el proyecto nos fuimos guiando mientante el e
 Podemos obsevar por ejemplo el bloque 1, Sincronizador conformado por 4 FF y conectado a 16 swicth/ el cual no da una salida para los modos a trabajar. 
 ![image](https://user-images.githubusercontent.com/104220377/236180567-f900dcd0-c829-43cc-8255-981aad6adb8b.png)
 
+Los 4 modos de operacion, los cuales son nombrados como modulo 00, modulo 01, modulo 10, modulo 11
+![image](https://user-images.githubusercontent.com/104220377/236186547-52e54f20-0d24-458c-a28c-50fe74b06a5b.png)
 
 Multiplexor encargado de la lógica de los modos 
 ![image](https://user-images.githubusercontent.com/104220377/236180974-22718f31-1684-4a3f-9255-26dd87c1468f.png)
@@ -71,6 +73,8 @@ Al ver el diagrama en mas alto nivel podemos ver;
 Observemos el contador dentro del 7 segmentos (contador_refresh2)
 ![image](https://user-images.githubusercontent.com/104220377/236181506-b05efb16-51e2-41fc-9469-2fd86104f35c.png)
 
+Ya observando todo los bloques en un nivel mas bajo, podemos ver: 
+![image](https://user-images.githubusercontent.com/104220377/236186786-a7991485-80d3-4998-88c3-2175cfcda68d.png)
 
 # Constrains #
 
@@ -97,5 +101,8 @@ Modulo 00 testbench
 
 Modulo 01 testbench
 ![image](https://user-images.githubusercontent.com/104220377/236184073-b859ca80-2208-4081-af9e-17e193bd232f.png)
+
+Top_testbench
+![image](https://user-images.githubusercontent.com/104220377/236196068-4d7dec8f-0c03-4ec1-aca6-27a29c310ed9.png)
 
 
