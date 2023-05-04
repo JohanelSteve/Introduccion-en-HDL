@@ -44,3 +44,58 @@ En el apéndice se muestra un ejemplo de GUI para la visualización de datos.
 
 ![image](https://user-images.githubusercontent.com/104220377/229974253-a82fbdfc-6516-45d8-87b2-4492478b2294.png)
 </p>
+
+<br/>
+
+
+# Proceso de desarrollo del proyecto #
+# Diagramas # 
+
+Para ir completando funcionalmente el proyecto nos fuimos guiando mientante el esquematico y testbech.
+
+Podemos obsevar por ejemplo el bloque 1, Sincronizador conformado por 4 FF y conectado a 16 swicth/ el cual no da una salida para los modos a trabajar. 
+![image](https://user-images.githubusercontent.com/104220377/236180567-f900dcd0-c829-43cc-8255-981aad6adb8b.png)
+
+
+Multiplexor encargado de la lógica de los modos 
+![image](https://user-images.githubusercontent.com/104220377/236180974-22718f31-1684-4a3f-9255-26dd87c1468f.png)
+
+
+El bloque para los 7 segmentos, dicho bloque temenos mux para los 7 segmentos, con su contador, y control de anodos, el cual se unifica en un sub-top.
+![image](https://user-images.githubusercontent.com/104220377/236180889-fac85f79-cd17-4605-9a7a-ac55217d1a44.png)
+
+
+Al ver el diagrama en mas alto nivel podemos ver;
+![image](https://user-images.githubusercontent.com/104220377/236181467-9c3d4897-20ca-4aaa-a171-a6d415616f55.png)
+
+Observemos el contador dentro del 7 segmentos (contador_refresh2)
+![image](https://user-images.githubusercontent.com/104220377/236181506-b05efb16-51e2-41fc-9469-2fd86104f35c.png)
+
+
+# Constrains #
+
+Uno de los objectivos era la implementacion en una FPGA, por lo que se trabajo y se cableo los constrains para el proyecto 
+
+
+![image](https://user-images.githubusercontent.com/104220377/236182928-17f3ad3e-d358-44c4-a3f6-08e0ea334393.png)
+![image](https://user-images.githubusercontent.com/104220377/236182961-189bdc4d-adac-4f06-af74-a52da4421ed5.png)
+![image](https://user-images.githubusercontent.com/104220377/236182993-11a344d3-d503-4a08-8034-80860966775b.png)
+![image](https://user-images.githubusercontent.com/104220377/236183025-4713348c-0b8d-4930-8c22-a549c2c3a57c.png)
+
+
+# Testbench #
+
+Modulo 00 testbench
+![image](https://user-images.githubusercontent.com/104220377/236183626-193f1c44-45a8-4cd2-8e1c-94a7e27c61bc.png)
+
+
+
+7 segmentos testbench
+![image](https://user-images.githubusercontent.com/104220377/236183808-b332c1b9-2ff0-4368-910e-fa04b32a3c7f.png)
+
+
+
+Modulo 01 testbench
+![image](https://user-images.githubusercontent.com/104220377/236184073-b859ca80-2208-4081-af9e-17e193bd232f.png)
+
+
