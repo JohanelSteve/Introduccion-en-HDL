@@ -1,0 +1,39 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/FFD.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFD
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Sync.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sync
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/top_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/BCDConvert.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDConvert
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_10.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modulo_10
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_00.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modulo_00
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Mux.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_11.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modulo_11
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/mux_7segmt.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_7segmt
+WARNING: [VRFC 10-2938] 'out_1' is already implicitly declared on line 13 [C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/mux_7segmt.sv:15]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/display_7segmt.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_7segmt
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/contador_resfresh.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module contador_resfresh
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/top_7segmt.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_7segmt
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_01.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modulo_01
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/module_bcd.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bcd
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/Modulo_00_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modulo_00_tb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/top_7segmt_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_7segmt_tb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/modulox_00_testbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module modulox_00_testbench
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/top_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/testbench_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_top

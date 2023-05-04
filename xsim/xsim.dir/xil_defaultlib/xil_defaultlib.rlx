@@ -1,0 +1,24 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/johan/Proyecto_2/Proyecto_2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/Modulo_00_tb.sv,1683159635,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/top_7segmt_tb.sv,,Modulo_00_tb,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/modulox_00_testbench.sv,1683198898,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/top_tb.sv,,modulox_00_testbench,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/testbench_top.sv,1683200671,systemVerilog,,,,testbench_top,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/top_7segmt_tb.sv,1683198776,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/modulox_00_testbench.sv,,top_7segmt_tb,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/top_tb.sv,1683198994,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/testbench_top.sv,,top_tb,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/BCDConvert.sv,1681963577,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_10.sv,,BCDConvert,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/FFD.sv,1681957105,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Sync.sv,,FFD,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_00.sv,1683168266,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Mux.sv,,Modulo_00,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_01.sv,1683198146,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/module_bcd.sv,,Modulo_01,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_10.sv,1683175972,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_00.sv,,Modulo_10,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_11.sv,1683161700,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/mux_7segmt.sv,,Modulo_11,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Mux.sv,1683168750,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_11.sv,,Mux,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Sync.sv,1681958494,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/top_module.sv,,Sync,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/contador_resfresh.sv,1683170497,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/top_7segmt.sv,,contador_resfresh,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/display_7segmt.sv,1683170383,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/contador_resfresh.sv,,display_7segmt,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/module_bcd.sv,1683197926,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sim_1/new/Modulo_00_tb.sv,,bcd,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/mux_7segmt.sv,1683170293,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/display_7segmt.sv,,mux_7segmt,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/top_7segmt.sv,1683199915,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/Modulo_01.sv,,top_7segmt,,uvm,,,,,,
+C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/top_module.sv,1683198193,systemVerilog,,C:/Users/johan/Proyecto_2/Proyecto_2.srcs/sources_1/new/BCDConvert.sv,,top_module,,uvm,,,,,,
